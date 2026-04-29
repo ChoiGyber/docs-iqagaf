@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-87zn1v.sjfungarchitect.com/sitemap.xml
